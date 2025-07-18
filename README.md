@@ -1,9 +1,3 @@
-Chắc chắn rồi. Dưới đây là nội dung tổng hợp của các tài liệu thiết kế từ **Tuần 1-2**, được định dạng bằng Markdown.
-
-Bạn có thể sao chép toàn bộ nội dung bên dưới, dán vào một trình soạn thảo văn bản (như VS Code, Notepad++, Sublime Text) và lưu lại với đuôi `.md` (ví dụ: `Athena_ThietKe_GiaiDoan1.md`) để dễ dàng chỉnh sửa, theo dõi và lưu trữ.
-
------
-
 # Hệ thống Athena - Tài liệu Thiết kế Giai đoạn 1
 
 **Phiên bản: 1.0**
