@@ -1,3 +1,5 @@
+Hệ thống Athena
+Nền tảng AIoT 
 # Hệ thống Athena - Tài liệu Thiết kế Giai đoạn 1
 
 **Phiên bản: 1.0**
